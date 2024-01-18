@@ -1,1 +1,1 @@
-"# Funcionamiento de una neurona con pesos" 
+# Funcionamiento de una neurona con pesos
